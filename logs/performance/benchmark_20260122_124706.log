@@ -1,0 +1,42 @@
+=== BENCHMARK Pi - Dec.txt ===
+
+========================================
+   BUSCADOR AVANZADO - CONSTANTES FÍSICAS
+   GPU Acceleration con CUDA (Optimizado)
+========================================
+
+
+=== BENCHMARK DE RENDIMIENTO ===
+  Tamaño del archivo: 1000000002 bytes (0.93 GB)
+  Lectura completada en 0.10 segundos (9458.90 MB/s)
+  Transferencia H2D: 0.080 segundos (11.65 GB/s)
+
+  Probando configuraciones de kernel:
+    Config 1: 896 blk × 128 thr = 38.71 ms (24.06 GB/s) [2 match]
+    Config 2: 448 blk × 256 thr = 37.32 ms (24.95 GB/s) [2 match]
+    Config 3: 896 blk × 256 thr = 32.38 ms (28.76 GB/s) [2 match]
+    Config 4: 224 blk × 512 thr = 32.21 ms (28.91 GB/s) [2 match]
+
+=== BENCHMARK COMPLETADO ===
+
+=== BENCHMARK e - Dec.txt ===
+
+========================================
+   BUSCADOR AVANZADO - CONSTANTES FÍSICAS
+   GPU Acceleration con CUDA (Optimizado)
+========================================
+
+
+=== BENCHMARK DE RENDIMIENTO ===
+  Tamaño del archivo: 1000000002 bytes (0.93 GB)
+  Lectura completada en 0.11 segundos (8936.14 MB/s)
+  Transferencia H2D: 0.080 segundos (11.67 GB/s)
+
+  Probando configuraciones de kernel:
+    Config 1: 896 blk × 128 thr = 32.56 ms (28.61 GB/s) [1 match]
+    Config 2: 448 blk × 256 thr = 32.33 ms (28.81 GB/s) [1 match]
+    Config 3: 896 blk × 256 thr = 32.27 ms (28.86 GB/s) [1 match]
+    Config 4: 224 blk × 512 thr = 32.14 ms (28.98 GB/s) [1 match]
+
+=== BENCHMARK COMPLETADO ===
+

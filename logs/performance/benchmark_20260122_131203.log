@@ -1,0 +1,46 @@
+=== BENCHMARK Pi - Dec.txt ===
+
+========================================
+   BUSCADOR AVANZADO - CONSTANTES FÍSICAS
+   GPU Acceleration con CUDA (Optimizado v4)
+   Config: 224 bloques × 512 hilos
+========================================
+
+
+=== BENCHMARK DE RENDIMIENTO ===
+  Cargando archivo con precisión completa...
+  Tamaño del archivo: 1000000002 bytes (0.93 GB)
+  Lectura completada en 0.43 segundos (2228.39 MB/s)
+  Transferencia H2D: 0.080 segundos (11.64 GB/s)
+
+  Probando configuraciones de kernel:
+    Config 1: 896 blk × 128 thr = 38.56 ms (24.15 GB/s) [2 match]
+    Config 2: 448 blk × 256 thr = 33.19 ms (28.06 GB/s) [2 match]
+    Config 3: 896 blk × 256 thr = 32.31 ms (28.83 GB/s) [2 match]
+    Config 4: 224 blk × 512 thr = 32.14 ms (28.97 GB/s) [2 match]
+
+=== BENCHMARK COMPLETADO ===
+
+=== BENCHMARK e - Dec.txt ===
+
+========================================
+   BUSCADOR AVANZADO - CONSTANTES FÍSICAS
+   GPU Acceleration con CUDA (Optimizado v4)
+   Config: 224 bloques × 512 hilos
+========================================
+
+
+=== BENCHMARK DE RENDIMIENTO ===
+  Cargando archivo con precisión completa...
+  Tamaño del archivo: 1000000002 bytes (0.93 GB)
+  Lectura completada en 0.42 segundos (2277.00 MB/s)
+  Transferencia H2D: 0.080 segundos (11.66 GB/s)
+
+  Probando configuraciones de kernel:
+    Config 1: 896 blk × 128 thr = 32.50 ms (28.66 GB/s) [1 match]
+    Config 2: 448 blk × 256 thr = 32.29 ms (28.84 GB/s) [1 match]
+    Config 3: 896 blk × 256 thr = 32.21 ms (28.91 GB/s) [1 match]
+    Config 4: 224 blk × 512 thr = 32.08 ms (29.03 GB/s) [1 match]
+
+=== BENCHMARK COMPLETADO ===
+

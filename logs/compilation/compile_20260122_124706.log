@@ -1,0 +1,7 @@
+ptxas info    : Overriding maximum register limit 256 for '_Z26search_kernel_optimized_v2PKcxS0_iPiS1_' with  64 of maxrregcount option
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z26search_kernel_optimized_v2PKcxS0_iPiS1_' for 'sm_75'
+ptxas info    : Function properties for _Z26search_kernel_optimized_v2PKcxS0_iPiS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 13 registers, used 1 barriers, 32 bytes smem, 400 bytes cmem[0]
+ptxas info    : Compile time = 4.744 ms

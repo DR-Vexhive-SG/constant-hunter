@@ -1,0 +1,26 @@
+=== BENCHMARK Pi - Dec.txt ===
+
+========================================
+   BUSCADOR AVANZADO - CONSTANTES FÍSICAS
+   GPU Acceleration con CUDA (Optimizado v3)
+   Config: 224 bloques × 512 hilos
+========================================
+
+=== BENCHMARK DE RENDIMIENTO ===
+  Cargando archivo con mmap (precisión completa)...
+  Tamaño del archivo: 1000000002 bytes (0.93 GB)
+  Mapeo completado en 0.02 segundos
+
+=== BENCHMARK e - Dec.txt ===
+
+========================================
+   BUSCADOR AVANZADO - CONSTANTES FÍSICAS
+   GPU Acceleration con CUDA (Optimizado v3)
+   Config: 224 bloques × 512 hilos
+========================================
+
+=== BENCHMARK DE RENDIMIENTO ===
+  Cargando archivo con mmap (precisión completa)...
+  Tamaño del archivo: 1000000002 bytes (0.93 GB)
+  Mapeo completado en 0.03 segundos
+

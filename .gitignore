@@ -1,0 +1,39 @@
+
+# Datasets grandes - NO subir a GitHub
+datasets/*.txt
+datasets/*.bin
+datasets/*.dat
+
+# Resultados de búsqueda
+results/
+
+# Archivos compilados
+*.o
+*.so
+*.cubin
+full_pi_search_enhanced
+
+# Archivos de sistema y editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Entornos virtuales Python
+venv/
+env/
+.venv/
+
+# Archivos temporales
+tmp/
+temp/
+
+# Documentación generada
+_build/
+docs/_build/
+
+# Archivos de configuración local
+*.local
+*.env
+config/local.yaml
