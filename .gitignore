@@ -37,3 +37,17 @@ docs/_build/
 *.local
 *.env
 config/local.yaml
+
+# Logs y archivos temporales
+logs/
+obj/
+*.log
+
+# Archivos de editor
+*.swp
+*.swo
+*.kate-swp
+*.kate-swp.*
+
+# Archivos compilados binarios
+src/scripts/full_pi_search_enhanced
