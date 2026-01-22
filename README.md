@@ -1,6 +1,6 @@
 🎯 Constant Hunter
 
-GPU-accelerated search engine for physical constants in irrational numbers
+GPU-accelerated search engine for physical constants in irrational numbers with scietific precision and speed
 
 https://img.shields.io/badge/License-Apache_2.0-blue.svg
 https://img.shields.io/badge/CUDA-13.1-green.svg
@@ -32,7 +32,7 @@ Prerequisites
 Installation
 
 # Clone repository
-git clone https://github.com/<your-username>/constant-hunter.git
+git clone [https://github.com/DR-Vexhive-SG/constant-hunter]
 cd constant-hunter
 
 # Run setup script
@@ -133,15 +133,15 @@ Memory Management
     Open Pull Request
 
 📄 License
-
 Apache 2.0 - See LICENSE for details.
+
 👨‍💻 Author
 
 Daniel Ricardo Segura González
 
     Email: vexhive@tuta.io
 
-    GitHub: Vexhive
+    GitHub: DR-Vexhive-SG
 
 🙏 Acknowledgments
 
