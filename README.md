@@ -2,6 +2,8 @@
 
 GPU-accelerated search engine for physical constants in irrational numbers with scietific precision and speed
 
+<img width="1920" height="1039" alt="image" src="https://github.com/user-attachments/assets/202c404d-84be-4b2b-b566-a7d947861a52" />
+
 _____________________________________________________________________________________________________________
 
 https://img.shields.io/badge/License-Apache_2.0-blue.svg
@@ -22,6 +24,9 @@ ________________________________________________________________________________
     📊 Data Analysis: Statistical analysis and result export (CSV/JSON)
 
     ⚡ Cross-platform: Optimized for Fedora Linux with CUDA 13.1
+
+<img width="1920" height="1039" alt="image" src="https://github.com/user-attachments/assets/151a82d0-3dc4-4eba-9a71-8b014d77a7da" />
+
 
 🚀 Quick Start
 Prerequisites
@@ -102,6 +107,9 @@ Benchmark
     Mathematical: φ (golden ratio), π, e
 
     Custom: Any numeric pattern (up to 20 digits)
+
+<img width="1919" height="1040" alt="image" src="https://github.com/user-attachments/assets/df432662-5953-4313-9805-4c2f2e01ccf0" />
+
 
 🔧 Configuration
 Fedora 43 Specific
