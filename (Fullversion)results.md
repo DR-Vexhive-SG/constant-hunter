@@ -1,12 +1,5 @@
 
-# Constant Hunter - Live Demo
-
-## Quick Demo
-```bash
-# Clone and run
-git clone https://github.com/DR-Vexhive-SG/constant-hunter.git
-cd constant-hunter
-python src/python/run_gui.py
+# Constant Hunter - (Full version)
 
 ## Sample Results
 
