@@ -167,3 +167,34 @@ Daniel Ricardo Segura González
     Fedora Project
 
 ⭐ If you find this project useful, please give it a star!
+
+# Constant Hunter - Motor de Optimización CUDA
+
+## ⚠️ AVISO DE PROPIEDAD INTELECTUAL
+Este repositorio contiene una **versión demostrativa** de mi motor de 
+optimización CUDA, creado exclusivamente para mostrar mis habilidades 
+como desarrollador CUDA/C++.
+
+## 🛡️ LICENCIA
+Este software está disponible bajo **Licencia de Portfolio Técnico**.
+Ver archivo [LICENSE](LICENSE) para detalles completos.
+
+**Resumen:**
+- ✅ Puedes revisar el código para evaluar mis habilidades técnicas
+- ✅ Puedes usarlo en procesos de contratación/entrevistas
+- ❌ **NO** puedes usarlo comercialmente
+- ❌ **NO** puedes copiar las técnicas de optimización
+- ❌ **NO** puedes redistribuir o modificar
+
+## 🔐 ACCESO AL CÓDIGO COMPLETO
+El código completo con todas las optimizaciones está disponible:
+1. Bajo NDA para empresas en proceso de contratación
+2. Bajo licencia comercial para uso productivo
+
+## 📞 CONTACTO
+Para:
+- Procesos de contratación
+- Licencias comerciales
+- Colaboración técnica
+
+Contactar: [vexhive@tuta.io]
