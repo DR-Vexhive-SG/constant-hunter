@@ -2,12 +2,15 @@
 
 GPU-accelerated search engine for physical constants in irrational numbers with scietific precision and speed
 
-
+_____________________________________________________________________________________________________________
 
 https://img.shields.io/badge/License-Apache_2.0-blue.svg
 https://img.shields.io/badge/CUDA-13.1-green.svg
 https://img.shields.io/badge/Python-3.10+-yellow.svg
 https://img.shields.io/badge/Platform-Fedora%252043-orange.svg
+
+_____________________________________________________________________________________________________________
+
 ✨ Features
 
     🚀 GPU Acceleration: 1GB search in <1 second using CUDA
