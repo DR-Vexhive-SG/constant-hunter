@@ -2,6 +2,8 @@
 
 GPU-accelerated search engine for physical constants in irrational numbers with scietific precision and speed
 
+
+
 https://img.shields.io/badge/License-Apache_2.0-blue.svg
 https://img.shields.io/badge/CUDA-13.1-green.svg
 https://img.shields.io/badge/Python-3.10+-yellow.svg
