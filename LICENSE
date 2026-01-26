@@ -1,0 +1,113 @@
+LICENCIA DE PORTFOLIO TÉCNICO - USO RESTRINGIDO
+
+Copyright (c) 2026 Daniel Ricardo Segura Gonzalez. Todos los derechos reservados.
+
+===========================================================
+PROPÓSITO DE ESTE REPOSITORIO:
+Este repositorio existe únicamente como demostración de habilidades
+técnicas para procesos de contratación laboral. NO es software libre
+ni de código abierto.
+
+===========================================================
+DERECHOS CONCEDIDOS:
+1. Puedes ver, estudiar y compilar este código para EVALUAR
+   mis habilidades como candidato a empleo.
+2. Puedes ejecutar el software localmente para pruebas.
+3. Puedes hacer referencia a este proyecto en revisiones técnicas.
+
+===========================================================
+PROHIBICIONES EXPLÍCITAS:
+1. USO COMERCIAL: Prohibido usar este software en producción,
+   servicios comerciales o productos sin licencia explícita.
+2. DISTRIBUCIÓN: No puedes redistribuir, modificar o publicar
+   versiones derivadas.
+3. INGENIERÍA INVERSA: Prohibida la descompilación, desensamblado
+   o análisis reverso de técnicas de optimización CUDA.
+4. ROBOTICS/CUDA KERNELS: Los algoritmos de kernels CUDA,
+   técnicas de coalesced memory access, warp optimization,
+   y memory hierarchy management son propiedad intelectual
+   protegida y secretos comerciales.
+
+===========================================================
+EXCEPCIÓN PARA PROCESOS DE CONTRATACIÓN:
+- Reclutadores y empresas pueden evaluar este código como parte
+  de mi proceso de selección.
+- Se permiten preguntas técnicas específicas sobre la implementación
+  en entrevistas.
+- El código fuente completo está disponible bajo NDA para empresas
+  seriamente interesadas en contratación.
+
+===========================================================
+PROPIEDAD INTELECTUAL:
+Los siguientes elementos son propiedad intelectual reservada:
+- Optimizaciones específicas de kernels CUDA (block/grid dimensioning)
+- Algoritmos de paralelización de constant folding
+- Técnicas de memory padding y alignment
+- Implementaciones de reduction patterns
+- Cualquier técnica que supere el 30% de mejora sobre referencias públicas
+
+===========================================================
+CONTACTO PARA LICENCIAS COMERCIALES:
+Para uso comercial, educativo institucional o colaboración:
+[tu.email@dominio.com]
+
+===========================================================
+AVISO LEGAL:
+Violar estos términos puede resultar en acciones legales por
+violación de derechos de autor y secretos comerciales.LICENCIA DE PORTFOLIO TÉCNICO - USO RESTRINGIDO
+
+Copyright (c) 2024 [Tu Nombre]. Todos los derechos reservados.
+
+===========================================================
+PROPÓSITO DE ESTE REPOSITORIO:
+Este repositorio existe únicamente como demostración de habilidades
+técnicas para procesos de contratación laboral. NO es software libre
+ni de código abierto.
+
+===========================================================
+DERECHOS CONCEDIDOS:
+1. Puedes ver, estudiar y compilar este código para EVALUAR
+   mis habilidades como candidato a empleo.
+2. Puedes ejecutar el software localmente para pruebas.
+3. Puedes hacer referencia a este proyecto en revisiones técnicas.
+
+===========================================================
+PROHIBICIONES EXPLÍCITAS:
+1. USO COMERCIAL: Prohibido usar este software en producción,
+   servicios comerciales o productos sin licencia explícita.
+2. DISTRIBUCIÓN: No puedes redistribuir, modificar o publicar
+   versiones derivadas.
+3. INGENIERÍA INVERSA: Prohibida la descompilación, desensamblado
+   o análisis reverso de técnicas de optimización CUDA.
+4. ROBOTICS/CUDA KERNELS: Los algoritmos de kernels CUDA,
+   técnicas de coalesced memory access, warp optimization,
+   y memory hierarchy management son propiedad intelectual
+   protegida y secretos comerciales.
+
+===========================================================
+EXCEPCIÓN PARA PROCESOS DE CONTRATACIÓN:
+- Reclutadores y empresas pueden evaluar este código como parte
+  de mi proceso de selección.
+- Se permiten preguntas técnicas específicas sobre la implementación
+  en entrevistas.
+- El código fuente completo está disponible bajo NDA para empresas
+  seriamente interesadas en contratación.
+
+===========================================================
+PROPIEDAD INTELECTUAL:
+Los siguientes elementos son propiedad intelectual reservada:
+- Optimizaciones específicas de kernels CUDA (block/grid dimensioning)
+- Algoritmos de paralelización de constant folding
+- Técnicas de memory padding y alignment
+- Implementaciones de reduction patterns
+- Cualquier técnica que supere el 30% de mejora sobre referencias públicas
+
+===========================================================
+CONTACTO PARA LICENCIAS COMERCIALES:
+Para uso comercial, educativo institucional o colaboración:
+[vexhive@tuta.io]
+
+===========================================================
+AVISO LEGAL:
+Violar estos términos puede resultar en acciones legales por
+violación de derechos de autor y secretos comerciales.
