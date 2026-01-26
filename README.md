@@ -1,19 +1,18 @@
 🎯 Constant Hunter
 
-GPU-accelerated search engine for physical constants in irrational numbers with scietific precision and speed
+📋 Project Overview
+
+Constant Hunter is a high-performance GPU-accelerated search engine written in CUDA/C++, designed to find physical constants within massive datasets (like Pi digits). This repository contains a demonstration version showcasing my advanced CUDA programming and parallel computing skills.
 
 <img width="1920" height="1039" alt="image" src="https://github.com/user-attachments/assets/202c404d-84be-4b2b-b566-a7d947861a52" />
 
-_____________________________________________________________________________________________________________
+⚠️ Intellectual Property Notice
 
-https://img.shields.io/badge/License-Apache_2.0-blue.svg
-https://img.shields.io/badge/CUDA-13.1-green.svg
-https://img.shields.io/badge/Python-3.10+-yellow.svg
-https://img.shields.io/badge/Platform-Fedora%252043-orange.svg
+THIS IS DEMONSTRATION CODE - Contains only basic architecture and example functionality. Advanced optimizations, specialized kernels, and proprietary techniques are PROTECTED AND NOT INCLUDED.
 
 _____________________________________________________________________________________________________________
 
-✨ Features
+✨ Features (Full version)
 
     🚀 GPU Acceleration: 1GB search in <1 second using CUDA
 
@@ -39,26 +38,17 @@ Prerequisites
 
     Python 3.10+
 
-Installation
 
-# Clone repository
-git clone [https://github.com/DR-Vexhive-SG/constant-hunter]
-cd constant-hunter
+📊 Performance Metrics (Full version)
+    
+    Metric	Value
+    Throughput	20-25 GB/s
+    Max File Size	2.5GB+ (chunked processing)
+    Search Accuracy	100% exact matches
+    GPU Memory Usage	~300MB per 1GB search
+    Supported Constants	50+ physical constants
 
-# Run setup script
-chmod +x setup_constant_hunter.sh
-./setup_constant_hunter.sh
-
-# Launch application
-python src/python/run_gui.py
-📊 Performance Metrics
-Metric	Value
-Throughput	20-25 GB/s
-Max File Size	1GB+ (chunked processing)
-Search Accuracy	100% exact matches
-GPU Memory Usage	~300MB per 1GB search
-Supported Constants	50+ physical constants
-🛠️ Tech Stack
+🛠️ Tech Stack (Full version)
 
     GPU Computing: CUDA 13.1+, NVIDIA drivers
 
@@ -71,15 +61,17 @@ Supported Constants	50+ physical constants
     OS: Fedora 43 (optimized), Linux
 
 📁 Project Structure
-constant-hunter/
-├── src/
-│   ├── cuda/           # CUDA kernels (.cu files)
-│   ├── python/         # Python application
-│   └── scripts/        # Utility scripts
-├── docs/              # Documentation
-├── datasets/          # Sample datasets
-├── tests/            # Unit tests
-└── results/          # Search outputs (.gitignored)
+
+    constant-hunter/
+    ├── src/
+    │   ├── cuda/           # CUDA kernels (.cu files)
+    │   ├── python/         # Python application
+    │   └── scripts/        # Utility scripts
+    ├── docs/              # Documentation
+    ├── datasets/          # Sample datasets
+    ├── tests/            # Unit tests
+    └── results/          # Search outputs (.gitignored)
+    
 🧪 Usage Examples
 GUI Mode
 python src/python/run_gui.py
@@ -89,13 +81,6 @@ python src/python/run_gui.py
 
     View interactive results with charts
 
-CLI Mode
-python src/python/cuda_wrapper.py \
-    --file datasets/Pi\ -\ Dec.txt \
-    --constant c,G,k \
-    --output results/latest_search
-Benchmark
-./src/scripts/run_benchmark.sh
 📈 Supported Constants
 
     Fundamental: c (speed of light), h (Planck), G (gravitational)
@@ -111,17 +96,80 @@ Benchmark
 <img width="1919" height="1040" alt="image" src="https://github.com/user-attachments/assets/df432662-5953-4313-9805-4c2f2e01ccf0" />
 
 
-🔧 Configuration
-Fedora 43 Specific
-# Always compile with gcc-14
-nvcc -ccbin /usr/bin/gcc-14 -O3 ...
-Memory Management
 
-    Chunk size: 1GB default (adjustable)
+🛡️ License
 
-    GPU memory: Auto-detected
+TECHNICAL PORTFOLIO LICENSE
 
-    Cache: 256MB file cache
+    ✅ May be reviewed for skill evaluation
+
+    ✅ May be compiled and run locally
+
+    ❌ MAY NOT be used commercially
+
+    ❌ MAY NOT be modified or redistributed
+
+    ❌ DOES NOT include proprietary optimizations
+
+View full license
+🎯 Demo Version Features
+Included (in this demo):
+
+    Core system architecture
+
+    Basic CUDA search kernel
+
+    GPU/CPU memory management
+
+    Simple results system
+
+    3 test physical constants
+
+NOT Included (full version):
+
+    Memory coalescing optimized kernels
+
+    Warp-level optimizations
+
+    Advanced shared memory patterns
+
+    Multi-stream processing
+
+    Texture memory optimizations
+
+    15+ physical constant searches
+
+    320-480 GB/s throughput
+
+    📊 Performance Metrics (Full Version)
+    Metric	Demo Version	Full Version*
+    Throughput	~10 GB/s	30 GB/s
+    Constants	3	15+
+    Data Size	KB	100+ GB
+    Optimizations	Basic	Advanced
+
+*Available under NDA
+🏗️ Technical Architecture
+
+    System Architecture (simplified):
+    ├── Host (CPU)
+    │   ├── I/O Management
+    │   ├── Data Preparation
+    │   └── Pipeline Control
+    └── Device (GPU)
+        ├── Memory Manager
+        ├── Search Engine (kernels)
+        └── Results Collector
+
+🔧 Compilation & Execution
+
+        # Compile demo version
+    make
+    
+    # Run
+    ./constant_hunter_demo
+
+
 
 📚 Documentation
 
@@ -170,31 +218,97 @@ Daniel Ricardo Segura González
 
 # Constant Hunter - Motor de Optimización CUDA
 
-## ⚠️ AVISO DE PROPIEDAD INTELECTUAL
-Este repositorio contiene una **versión demostrativa** de mi motor de 
-optimización CUDA, creado exclusivamente para mostrar mis habilidades 
-como desarrollador CUDA/C++.
+📞 Access to Full Version
 
-## 🛡️ LICENCIA
-Este software está disponible bajo **Licencia de Portfolio Técnico**.
-Ver archivo [LICENSE](LICENSE) para detalles completos.
+Complete code with all optimizations available for:
+1. Hiring Processes
 
-**Resumen:**
-- ✅ Puedes revisar el código para evaluar mis habilidades técnicas
-- ✅ Puedes usarlo en procesos de contratación/entrevistas
-- ❌ **NO** puedes usarlo comercialmente
-- ❌ **NO** puedes copiar las técnicas de optimización
-- ❌ **NO** puedes redistribuir o modificar
+    Available under NDA
 
-## 🔐 ACCESO AL CÓDIGO COMPLETO
-El código completo con todas las optimizaciones está disponible:
-1. Bajo NDA para empresas en proceso de contratación
-2. Bajo licencia comercial para uso productivo
+    Full review in technical interviews
 
-## 📞 CONTACTO
-Para:
-- Procesos de contratación
-- Licencias comerciales
-- Colaboración técnica
+    Live demonstration
 
-Contactar: [vexhive@tuta.io]
+2. Commercial Licensing
+
+    For production use
+
+    Customization available
+
+    Technical support
+
+Contact: [vexhive@tuta.io]
+
+🎓 Demonstrated Skills
+
+    Advanced CUDA programming
+
+    Hierarchical memory optimization
+
+    Massively parallel GPU computing
+
+    Parallel algorithm design
+
+    GPU profiling and debugging
+
+    Large-scale data management
+
+📁 Code Structure
+
+    constant_hunter_demo/
+    ├── constant_hunter_demo.cu  # Main source code
+    ├── Makefile                 # Build script
+    ├── LICENSE                  # Restrictive license
+    ├── README.md               # This file
+    └── docs/                   # Technical documentation
+        ├── ARCHITECTURE.md     # System design
+        └── PERFORMANCE.md      # Metrics & benchmarks
+
+⚡ Technical Features (Full Version)
+<details> <summary>🔒 Click for technical details (no code)</summary>
+Optimizations Implemented:
+
+    Memory Coalescing: Aligned global memory accesses
+
+    Warp Shuffle: Intra-warp communication without shared memory
+
+    Bank Conflict Avoidance: Optimized access patterns
+
+    Constant Caching: Optimal use of constant memory
+
+    Stream Overlap: Concurrent computation and transfer
+
+Specialized Algorithms:
+
+    Parallel multi-pattern search
+
+    Probabilistic filtering (GPU Bloom filters)
+
+    In-GPU compression for repetitive data
+
+    Hierarchical pattern caching
+
+Scalability:
+
+    Multi-GPU support
+
+    Dynamic load balancing
+
+    Partial fault tolerance
+
+    Automatic checkpointing
+
+</details>
+🤝 Collaboration
+
+Interested in:
+
+    CUDA developer positions
+
+    HPC research projects
+
+    GPU optimization consulting
+
+    High-performance system development
+
+Available for: Full-time positions, contract work, or consulting.
