@@ -6,6 +6,8 @@ Constant Hunter is a high-performance GPU-accelerated search engine written in C
 
 <img width="1920" height="1039" alt="image" src="https://github.com/user-attachments/assets/202c404d-84be-4b2b-b566-a7d947861a52" />
 
+____________________________________________________________________________________________________________
+
 ⚠️ Intellectual Property Notice
 
 THIS IS DEMONSTRATION CODE - Contains only basic architecture and example functionality. Advanced optimizations, specialized kernels, and proprietary techniques are PROTECTED AND NOT INCLUDED.
